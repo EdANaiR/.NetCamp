@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\concretes\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|solutionrelative:lesson 2 task 3\\concretes\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|solutionrelative:lesson 2 task 3\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\concretes\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|solutionrelative:lesson 2 task 3\\concretes\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|solutionrelative:lesson 2 task 3\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|solutionrelative:lesson 2 task 3\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|solutionrelative:lesson 2 task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\concretes\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|solutionrelative:lesson 2 task 3\\concretes\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +27,16 @@
       "RelativeMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|solutionrelative:lesson 2 task 3\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|solutionrelative:lesson 2 task 3\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|solutionrelative:lesson 2 task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|solutionrelative:lesson 2 task 3\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|solutionrelative:lesson 2 task 3\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4481738-CF4D-41D3-9A22-0E28433F1F1E}|Lesson 2 Task 3\\Lesson 2 Task 3.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\lesson 2 task 3\\lesson 2 task 3\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,72 +50,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ICategoryDal.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Abstracts\\ICategoryDal.cs",
               "RelativeDocumentMoniker": "Lesson 2 Task 3\\Abstracts\\ICategoryDal.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Abstracts\\ICategoryDal.cs",
               "RelativeToolTip": "Lesson 2 Task 3\\Abstracts\\ICategoryDal.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T11:22:31.084Z"
+              "WhenOpened": "2024-02-25T11:22:31.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CategoryDal.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Concretes\\CategoryDal.cs",
               "RelativeDocumentMoniker": "Lesson 2 Task 3\\Concretes\\CategoryDal.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Concretes\\CategoryDal.cs",
               "RelativeToolTip": "Lesson 2 Task 3\\Concretes\\CategoryDal.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAZAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T11:21:56.253Z"
+              "WhenOpened": "2024-02-25T11:21:56.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "IInstructorDal.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Abstracts\\IInstructorDal.cs",
               "RelativeDocumentMoniker": "Lesson 2 Task 3\\Abstracts\\IInstructorDal.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Abstracts\\IInstructorDal.cs",
               "RelativeToolTip": "Lesson 2 Task 3\\Abstracts\\IInstructorDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T11:06:48.554Z"
+              "WhenOpened": "2024-02-25T11:06:48.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "InstructorDal.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Concretes\\InstructorDal.cs",
               "RelativeDocumentMoniker": "Lesson 2 Task 3\\Concretes\\InstructorDal.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Concretes\\InstructorDal.cs",
               "RelativeToolTip": "Lesson 2 Task 3\\Concretes\\InstructorDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-25T11:03:36.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Lesson 2 Task 3\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Entities\\Category.cs",
               "RelativeToolTip": "Lesson 2 Task 3\\Entities\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T11:02:56.73Z"
+              "WhenOpened": "2024-02-25T11:02:56.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Instructor.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Entities\\Instructor.cs",
               "RelativeDocumentMoniker": "Lesson 2 Task 3\\Entities\\Instructor.cs",
@@ -123,7 +127,8 @@
               "RelativeToolTip": "Lesson 2 Task 3\\Entities\\Instructor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T11:02:01.04Z"
+              "WhenOpened": "2024-02-25T11:02:01.04Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,23 +140,25 @@
               "RelativeToolTip": "Lesson 2 Task 3\\Abstracts\\ICourseDal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T10:31:05.15Z"
+              "WhenOpened": "2024-02-25T10:31:05.15Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "CourseDal.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Concretes\\CourseDal.cs",
               "RelativeDocumentMoniker": "Lesson 2 Task 3\\Concretes\\CourseDal.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Concretes\\CourseDal.cs",
               "RelativeToolTip": "Lesson 2 Task 3\\Concretes\\CourseDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAgAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABMAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T10:33:46.911Z"
+              "WhenOpened": "2024-02-25T10:33:46.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Entities\\Course.cs",
               "RelativeDocumentMoniker": "Lesson 2 Task 3\\Entities\\Course.cs",
@@ -159,19 +166,21 @@
               "RelativeToolTip": "Lesson 2 Task 3\\Entities\\Course.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T10:15:31.85Z"
+              "WhenOpened": "2024-02-25T10:15:31.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Program.cs",
               "RelativeDocumentMoniker": "Lesson 2 Task 3\\Program.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\Lesson 2 Task 3\\Lesson 2 Task 3\\Program.cs",
               "RelativeToolTip": "Lesson 2 Task 3\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T10:14:44.437Z"
+              "WhenOpened": "2024-02-25T10:14:44.437Z",
+              "EditorCaption": ""
             }
           ]
         }

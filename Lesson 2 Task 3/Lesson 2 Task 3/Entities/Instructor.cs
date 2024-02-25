@@ -9,11 +9,11 @@ namespace Lesson_2_Task_3.Entities;
 
 public class Instructor
 {
-    private InstructorDal ınstructorDal;
+    private InstructorDal instructorDal;
 
-    public Instructor(InstructorDal ınstructorDal)
+    public Instructor(InstructorDal instructorDal)
     {
-        this.ınstructorDal = ınstructorDal;
+        this.instructorDal = instructorDal;
     }
 
     public int Id { get; set; }

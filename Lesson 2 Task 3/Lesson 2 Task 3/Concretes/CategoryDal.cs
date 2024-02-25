@@ -36,32 +36,21 @@ public class CategoryDal : ICategoryDal
         category.Add(category);
     }
 
-    public void Add(Course course)
-    {
-        throw new NotImplementedException();
-    }
-
     public List<Category> GetAll()
     {
         return category;
     }
+
+  
 
     public void Remove(Category category)
     {
         throw new NotImplementedException();
     }
 
-    public void Remove(Course course)
-    {
-        throw new NotImplementedException();
-    }
+    
 
     public void Update(Category category)
-        {
-            throw new NotImplementedException();
-        }
-
-    public void Update(Course course)
     {
         throw new NotImplementedException();
     }

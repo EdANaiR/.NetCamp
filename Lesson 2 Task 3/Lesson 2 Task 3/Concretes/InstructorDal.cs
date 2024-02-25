@@ -34,10 +34,7 @@ public class InstructorDal : IInstructorDal
         instructors.Add(instructor);
     }
 
-    public void Add(Course course)
-    {
-        throw new NotImplementedException();
-    }
+  
 
     public List<Instructor> GetAll()
     {
@@ -53,11 +50,6 @@ public class InstructorDal : IInstructorDal
         }
     }
 
-    public void Remove(Course course)
-    {
-        throw new NotImplementedException();
-    }
-
     public void Update(Instructor instructor)
     {
         Instructor instructorToUpdate = instructors.SingleOrDefault(i => i.Id == instructor.Id);
@@ -68,8 +60,4 @@ public class InstructorDal : IInstructorDal
         }
     }
 
-    public void Update(Course course)
-    {
-        throw new NotImplementedException();
-    }
 }

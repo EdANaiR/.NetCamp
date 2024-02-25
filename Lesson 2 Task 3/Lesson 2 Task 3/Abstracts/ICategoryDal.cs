@@ -10,7 +10,7 @@ namespace Lesson_2_Task_3.Abstracts;
 public interface ICategoryDal
 {
     List<Category> GetAll();
-    void Add(Course course);
-    void Remove(Course course);
-    void Update(Course course);
+    void Add(Category category);
+    void Remove(Category category);
+    void Update(Category category);
 }

@@ -11,8 +11,8 @@ namespace Lesson_2_Task_3.Abstracts
     {
 
         List<Instructor> GetAll();
-        void Add(Course course);
-        void Remove(Course course);
-        void Update(Course course);
+        void Add(Instructor instructor);
+        void Remove(Instructor instructor);
+        void Update(Instructor instructor);
     }
 }
