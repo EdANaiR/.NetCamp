@@ -10,13 +10,7 @@ namespace Lesson_2_Task_3.Entities;
 
 public class Course
 {
-    private CourseDal courseDal;
-
-    public Course(CourseDal courseDal)
-    {
-        this.courseDal = courseDal;
-    }
-
+    
     public int Id { get; set; }
     public string Title { get; set; }
     public string Description { get; set; }

@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|solutionrelative:intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\intro\\intro\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|solutionrelative:intro\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\intro\\intro\\dataaccess\\concretes\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|solutionrelative:intro\\dataaccess\\concretes\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\intro\\intro\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|solutionrelative:intro\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\intro\\intro\\entities\\individualcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +19,16 @@
       "RelativeMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|solutionrelative:intro\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\intro\\intro\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|solutionrelative:intro\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\intro\\intro\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|solutionrelative:intro\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\intro\\intro\\dataaccess\\concretes\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|solutionrelative:intro\\dataaccess\\concretes\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{002E0374-0876-4305-8DA0-F8F3C4656AFC}|intro\\intro.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\intro\\intro\\entities\\basecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\intro\\intro\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "intro\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\intro\\intro\\Entities\\Course.cs",
+              "RelativeToolTip": "intro\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:30:24.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EfCourseDal.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\intro\\intro\\DataAccess\\Concretes\\EfCourseDal.cs",
               "RelativeDocumentMoniker": "intro\\DataAccess\\Concretes\\EfCourseDal.cs",
@@ -54,31 +71,30 @@
               "RelativeToolTip": "intro\\DataAccess\\Concretes\\EfCourseDal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T11:53:04.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-18T11:53:04.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CourseDal.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\intro\\intro\\DataAccess\\Concretes\\CourseDal.cs",
               "RelativeDocumentMoniker": "intro\\DataAccess\\Concretes\\CourseDal.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\intro\\intro\\DataAccess\\Concretes\\CourseDal.cs",
               "RelativeToolTip": "intro\\DataAccess\\Concretes\\CourseDal.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAAhAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-18T10:58:24.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CourseManager.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\intro\\intro\\Business\\CourseManager.cs",
               "RelativeDocumentMoniker": "intro\\Business\\CourseManager.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\intro\\intro\\Business\\CourseManager.cs",
               "RelativeToolTip": "intro\\Business\\CourseManager.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-16T19:02:44.754Z",
               "EditorCaption": ""
@@ -98,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BaseCustomer.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\intro\\intro\\Entities\\BaseCustomer.cs",
               "RelativeDocumentMoniker": "intro\\Entities\\BaseCustomer.cs",
@@ -106,12 +122,11 @@
               "RelativeToolTip": "intro\\Entities\\BaseCustomer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T10:23:32.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-18T10:23:32.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CorporateCustomer.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\intro\\intro\\Entities\\CorporateCustomer.cs",
               "RelativeDocumentMoniker": "intro\\Entities\\CorporateCustomer.cs",
@@ -119,8 +134,7 @@
               "RelativeToolTip": "intro\\Entities\\CorporateCustomer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-16T19:41:08.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T19:41:08.02Z"
             },
             {
               "$type": "Document",
@@ -130,14 +144,14 @@
               "RelativeDocumentMoniker": "intro\\Program.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\intro\\intro\\Program.cs",
               "RelativeToolTip": "intro\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAABAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-16T19:02:44.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IndividualCustomer.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\intro\\intro\\Entities\\IndividualCustomer.cs",
               "RelativeDocumentMoniker": "intro\\Entities\\IndividualCustomer.cs",

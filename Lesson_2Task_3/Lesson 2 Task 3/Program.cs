@@ -9,9 +9,9 @@ Console.WriteLine("Hello, World!");
 
 
 Course course = new(new CourseDal());
-List<Course> courses1 = course.GetAll();
+List<Course> course2 = Course.GetAll();
 
-foreach (var Course in courses1)
+foreach (var Course in course1)
 {
     Console.WriteLine(course.Id + " = " + course.Title);
 

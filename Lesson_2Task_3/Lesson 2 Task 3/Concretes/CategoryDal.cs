@@ -12,7 +12,7 @@ public class CategoryDal : ICategoryDal
 {
 
 
-    List<Category> category;
+    List<Category> categorys;
 
 
     public CategoryDal()
@@ -28,17 +28,17 @@ public class CategoryDal : ICategoryDal
 
 
 
-        category = new List<Category> { category1, category2 };
+        categorys = new List<Category> { category1, category2 };
     }
 
     public void Add(Category category)
     {
-        category.Add(category);
+         categorys.Add(category);
     }
 
     public List<Category> GetAll()
     {
-        return category;
+        return categorys;
     }
 
   
