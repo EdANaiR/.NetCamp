@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1852D622-069D-4FAC-8D8D-E78605A2EB2B}|Business\\Business.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1852D622-069D-4FAC-8D8D-E78605A2EB2B}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{47C12819-C311-4591-B079-9188ABE7DD50}|WebAPI\\WebAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C12819-C311-4591-B079-9188ABE7DD50}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A2ABAF0-DB83-4171-9882-E8CEE15D3BCF}|DataAccess\\DataAccess.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2A2ABAF0-DB83-4171-9882-E8CEE15D3BCF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1852D622-069D-4FAC-8D8D-E78605A2EB2B}|Business\\Business.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\business\\abstracts\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1852D622-069D-4FAC-8D8D-E78605A2EB2B}|Business\\Business.csproj|solutionrelative:business\\abstracts\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1852D622-069D-4FAC-8D8D-E78605A2EB2B}|Business\\Business.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\business\\concretes\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1852D622-069D-4FAC-8D8D-E78605A2EB2B}|Business\\Business.csproj|solutionrelative:business\\concretes\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1852D622-069D-4FAC-8D8D-E78605A2EB2B}|Business\\Business.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\business\\dtos\\responses\\getallbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1852D622-069D-4FAC-8D8D-E78605A2EB2B}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\getallbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1852D622-069D-4FAC-8D8D-E78605A2EB2B}|Business\\Business.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\business\\dtos\\requests\\createbrandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1852D622-069D-4FAC-8D8D-E78605A2EB2B}|Business\\Business.csproj|solutionrelative:business\\dtos\\requests\\createbrandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1852D622-069D-4FAC-8D8D-E78605A2EB2B}|Business\\Business.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\business\\dtos\\responses\\createdbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1852D622-069D-4FAC-8D8D-E78605A2EB2B}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\createdbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7C335DD-90C2-408F-8CEE-991B09B27042}|Entities\\Entities.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\entities\\concretes\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7C335DD-90C2-408F-8CEE-991B09B27042}|Entities\\Entities.csproj|solutionrelative:entities\\concretes\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2ABAF0-DB83-4171-9882-E8CEE15D3BCF}|DataAccess\\DataAccess.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\dataaccess\\concretes\\branddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2ABAF0-DB83-4171-9882-E8CEE15D3BCF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concretes\\branddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2ABAF0-DB83-4171-9882-E8CEE15D3BCF}|DataAccess\\DataAccess.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\dataaccess\\abstracts\\ibranddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2ABAF0-DB83-4171-9882-E8CEE15D3BCF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstracts\\ibranddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF169DF5-D2EA-4611-92DA-59F1540D8DDF}|Core\\Core.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF169DF5-D2EA-4611-92DA-59F1540D8DDF}|Core\\Core.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2ABAF0-DB83-4171-9882-E8CEE15D3BCF}|DataAccess\\DataAccess.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A2ABAF0-DB83-4171-9882-E8CEE15D3BCF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7C335DD-90C2-408F-8CEE-991B09B27042}|Entities\\Entities.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\.netcamp\\webapi\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,25 +58,142 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\WebAPI\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\WebAPI\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:27:04.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BrandManager.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Business\\Concretes\\BrandManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concretes\\BrandManager.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Business\\Concretes\\BrandManager.cs",
+              "RelativeToolTip": "Business\\Concretes\\BrandManager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:21:49.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllBrandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
+              "RelativeToolTip": "Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:19:28.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatedBrandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
+              "RelativeToolTip": "Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:03:44.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateBrandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Business\\Dtos\\Requests\\CreateBrandRequest.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Requests\\CreateBrandRequest.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Business\\Dtos\\Requests\\CreateBrandRequest.cs",
+              "RelativeToolTip": "Business\\Dtos\\Requests\\CreateBrandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:01:32.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Business\\Abstracts\\IBrandService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstracts\\IBrandService.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Business\\Abstracts\\IBrandService.cs",
+              "RelativeToolTip": "Business\\Abstracts\\IBrandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:40:00.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BrandDal.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\DataAccess\\Concretes\\BrandDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concretes\\BrandDal.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\DataAccess\\Concretes\\BrandDal.cs",
+              "RelativeToolTip": "DataAccess\\Concretes\\BrandDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:25:49.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBrandDal.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\DataAccess\\Abstracts\\IBrandDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstracts\\IBrandDal.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\DataAccess\\Abstracts\\IBrandDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstracts\\IBrandDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:18:55.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:05:54.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Brand.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Entities\\Concretes\\Brand.cs",
               "RelativeDocumentMoniker": "Entities\\Concretes\\Brand.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Entities\\Concretes\\Brand.cs",
               "RelativeToolTip": "Entities\\Concretes\\Brand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T21:45:28.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataAccess",
+              "DocumentIndex": 10,
+              "Title": "DataAccess.csproj",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\DataAccess\\DataAccess.csproj",
               "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\DataAccess\\DataAccess.csproj",
@@ -56,21 +205,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Business",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Business\\Business.csproj",
-              "RelativeDocumentMoniker": "Business\\Business.csproj",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Business\\Business.csproj",
-              "RelativeToolTip": "Business\\Business.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-01T21:42:58.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Entities",
+              "DocumentIndex": 11,
+              "Title": "Entities.csproj",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Entities\\Entities.csproj",
               "RelativeDocumentMoniker": "Entities\\Entities.csproj",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\.NetCamp\\WebAPI\\Entities\\Entities.csproj",

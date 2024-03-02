@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "WebAPI.Controllers.BrandsController",
+    "Method": "Add",
+    "RelativePath": "api/Brands",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CreatebrandRequest",
+        "Type": "Business.Dtos.Requests.CreateBrandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.BrandsController",
+    "Method": "Get",
+    "RelativePath": "api/Brands",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
